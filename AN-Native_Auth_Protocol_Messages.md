@@ -200,17 +200,8 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			<th align="left" colspan="2">
 				Cancellation
 			</th>
-			<th align="left" colspan="2">
-				Void
-			</th>
 		</tr>
 		<tr valign="top">
-			<th align="left">
-				Request
-			</th>
-			<th align="left">
-				Response
-			</th>
 			<th align="left">
 				Request
 			</th>
@@ -284,12 +275,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			<td>
 				<p align="left">E1</p>
 			</td>
-			<td>
-				<p align="left">M</p>
-			</td>
-			<td>
-				<p align="left">E1</p>
-			</td>
 		</tr>
 		<tr valign="top">
 			<td>
@@ -324,12 +309,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			</td>
 			<td>
 				<p align="left">E</p>
-			</td>
-			<td>
-				<p align="left">M</p>
-			</td>
-			<td>
-				<p align="left">E1</p>
 			</td>
 			<td>
 				<p align="left">M</p>
@@ -378,12 +357,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			<td>
 				<p align="left">E1</p>
 			</td>
-			<td>
-				<p align="left">M</p>
-			</td>
-			<td>
-				<p align="left">E1</p>
-			</td>
 		</tr>
 		<tr valign="top">
 			<td>
@@ -418,12 +391,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			</td>
 			<td>
 				<p align="left">E</p>
-			</td>
-			<td>
-				<p align="left">M</p>
-			</td>
-			<td>
-				<p align="left">E1</p>
 			</td>
 			<td>
 				<p align="left">M</p>
@@ -472,12 +439,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			<td>
 				<p align="left">E1</p>
 			</td>
-			<td>
-				<p align="left">M</p>
-			</td>
-			<td>
-				<p align="left">E1</p>
-			</td>
 		</tr>
 		<tr valign="top">
 			<td>
@@ -519,12 +480,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			<td>
 				<p align="left"></p>
 			</td>
-			<td>
-				<p align="left">M</p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
 		</tr>
 		<tr valign="top">
 			<td>
@@ -535,12 +490,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			</td>
 			<td>
 				<p align="left">string</p>
-			</td>
-			<td>
-				<p align="left">M</p>
-			</td>
-			<td>
-				<p align="left"></p>
 			</td>
 			<td>
 				<p align="left">M</p>
@@ -613,12 +562,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			<td>
 				<p align="left">410</p>
 			</td>
-			<td>
-				<p align="left">220</p>
-			</td>
-			<td>
-				<p align="left">230</p>
-			</td>
 		</tr>
 		<tr valign="top">
 			<td>
@@ -653,12 +596,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			</td>
 			<td>
 				<p align="left">E</p>
-			</td>
-			<td>
-				<p align="left">M</p>
-			</td>
-			<td>
-				<p align="left">E1</p>
 			</td>
 			<td>
 				<p align="left">M</p>
@@ -707,12 +644,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			<td>
 				<p align="left">E1</p>
 			</td>
-			<td>
-				<p align="left">M</p>
-			</td>
-			<td>
-				<p align="left">E1</p>
-			</td>
 		</tr>
 		<tr valign="top">
 			<td>
@@ -723,12 +654,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			</td>
 			<td>
 				<p align="left">string</p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left"></p>
 			</td>
 			<td>
 				<p align="left"></p>
@@ -801,12 +726,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			<td>
 				<p align="left">E1</p>
 			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left">E1</p>
-			</td>
 		</tr>
 		<tr valign="top">
 			<td>
@@ -838,12 +757,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			</td>
 			<td>
 				<p align="left">C2</p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left"></p>
 			</td>
 			<td>
 				<p align="left"></p>
@@ -895,12 +808,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			<td>
 				<p align="left"></p>
 			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
 		</tr>
 		<tr valign="top">
 			<td>
@@ -911,12 +818,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			</td>
 			<td>
 				<p align="left">decimal</p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left"></p>
 			</td>
 			<td>
 				<p align="left"></p>
@@ -989,12 +890,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			<td>
 				<p align="left"></p>
 			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
 		</tr>
 		<tr valign="top">
 			<td>
@@ -1036,12 +931,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			<td>
 				<p align="left"></p>
 			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
 		</tr>
 		<tr valign="top">
 			<td>
@@ -1052,12 +941,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			</td>
 			<td>
 				<p align="left">decimal</p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left"></p>
 			</td>
 			<td>
 				<p align="left"></p>
@@ -1130,12 +1013,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			<td>
 				<p align="left"></p>
 			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
 		</tr>
 		<tr valign="top">
 			<td>
@@ -1177,12 +1054,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			<td>
 				<p align="left"></p>
 			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
 		</tr>
 		<tr valign="top">
 			<td>
@@ -1199,12 +1070,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			</td>
 			<td>
 				<p align="left">E</p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left"></p>
 			</td>
 			<td>
 				<p align="left"></p>
@@ -1271,12 +1136,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			<td>
 				<p align="left"></p>
 			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
 		</tr>
 		<tr valign="top">
 			<td>
@@ -1293,12 +1152,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			</td>
 			<td>
 				<p align="left">E</p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left"></p>
 			</td>
 			<td>
 				<p align="left"></p>
@@ -1365,12 +1218,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			<td>
 				<p align="left">E</p>
 			</td>
-			<td>
-				<p align="left">M1</p>
-			</td>
-			<td>
-				<p align="left">E</p>
-			</td>
 		</tr>
 		<tr valign="top">
 			<td>
@@ -1381,12 +1228,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			</td>
 			<td>
 				<p align="left">int</p>
-			</td>
-			<td>
-				<p align="left">M</p>
-			</td>
-			<td>
-				<p align="left">E</p>
 			</td>
 			<td>
 				<p align="left">M</p>
@@ -1459,12 +1300,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			<td>
 				<p align="left">E</p>
 			</td>
-			<td>
-				<p align="left">M</p>
-			</td>
-			<td>
-				<p align="left">E</p>
-			</td>
 		</tr>
 		<tr valign="top">
 			<td>
@@ -1496,12 +1331,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			</td>
 			<td>
 				<p align="left">M</p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left"></p>
 			</td>
 			<td>
 				<p align="left"></p>
@@ -1553,12 +1382,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			<td>
 				<p align="left"></p>
 			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
 		</tr>
 		<tr valign="top">
 			<td>
@@ -1590,12 +1413,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			</td>
 			<td>
 				<p align="left">O</p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left"></p>
 			</td>
 			<td>
 				<p align="left"></p>
@@ -1647,12 +1464,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			<td>
 				<p align="left"></p>
 			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
 		</tr>
 		<tr valign="top">
 			<td>
@@ -1663,12 +1474,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			</td>
 			<td>
 				<p align="left">string</p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left"></p>
 			</td>
 			<td>
 				<p align="left"></p>
@@ -1741,12 +1546,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			<td>
 				<p align="left">E</p>
 			</td>
-			<td>
-				<p align="left">C3</p>
-			</td>
-			<td>
-				<p align="left">E</p>
-			</td>
 		</tr>
 		<tr valign="top">
 			<td>
@@ -1763,12 +1562,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			</td>
 			<td>
 				<p align="left">E</p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left"></p>
 			</td>
 			<td>
 				<p align="left"></p>
@@ -1835,12 +1628,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			<td>
 				<p align="left">M</p>
 			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left">M</p>
-			</td>
 		</tr>
 		<tr valign="top">
 			<td>
@@ -1851,12 +1638,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			</td>
 			<td>
 				<p align="left">string</p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left">M</p>
 			</td>
 			<td>
 				<p align="left"></p>
@@ -1927,12 +1708,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			<td>
 				<p align="left"></p>
 			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
 		</tr>
 		<tr valign="top">
 			<td>
@@ -1942,12 +1717,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 				<p align="left">Var</p>
 			</td>
 				<td>Dictionary[string, string]</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
 			<td>
 				<p align="left"></p>
 			</td>
@@ -2017,12 +1786,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			<td>
 				<p align="left"></p>
 			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
 		</tr>
 		<tr valign="top">
 			<td>
@@ -2032,12 +1795,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 				<p align="left">Var</p>
 			</td>
 				<td>List[AuthTaxes]</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
 			<td>
 				<p align="left"></p>
 			</td>
@@ -2107,12 +1864,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			<td>
 				<p align="left"></p>
 			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
 		</tr>
 		<tr valign="top">
 			<td>
@@ -2122,12 +1873,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 				<p align="left">Var</p>
 			</td>
 				<td>List[AuthProduct]</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
 			<td>
 				<p align="left"></p>
 			</td>
@@ -2197,12 +1942,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			<td>
 				<p align="left"></p>
 			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
 		</tr>
 	</tbody>
 </table>	
@@ -2230,17 +1969,8 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			<th align="left" colspan="2">
 				Cancellation
 			</th>
-			<th align="left" colspan="2">
-				Void
-			</th>
 		</tr>
 		<tr valign="top">
-			<th align="left">
-				Request
-			</th>
-			<th align="left">
-				Response
-			</th>
 			<th align="left">
 				Request
 			</th>
@@ -2290,12 +2020,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			<td>
 				<p align="left">E1</p>
 			</td>
-			<td>
-				<p align="left">M</p>
-			</td>
-			<td>
-				<p align="left">E1</p>
-			</td>
 		</tr>
 		<tr valign="top">
 			<td>
@@ -2318,12 +2042,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			</td>
 			<td>
 				<p align="left">E</p>
-			</td>
-			<td>
-				<p align="left">M</p>
-			</td>
-			<td>
-				<p align="left">E1</p>
 			</td>
 			<td>
 				<p align="left">M</p>
@@ -2360,12 +2078,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			<td>
 				<p align="left">E1</p>
 			</td>
-			<td>
-				<p align="left">M</p>
-			</td>
-			<td>
-				<p align="left">E1</p>
-			</td>
 		</tr>
 		<tr valign="top">
 			<td>
@@ -2388,12 +2100,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			</td>
 			<td>
 				<p align="left">E</p>
-			</td>
-			<td>
-				<p align="left">M</p>
-			</td>
-			<td>
-				<p align="left">E1</p>
 			</td>
 			<td>
 				<p align="left">M</p>
@@ -2430,12 +2136,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			<td>
 				<p align="left">E1</p>
 			</td>
-			<td>
-				<p align="left">M</p>
-			</td>
-			<td>
-				<p align="left">E1</p>
-			</td>
 		</tr>
 		<tr valign="top">
 			<td>
@@ -2446,12 +2146,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			</td>
 			<td>
 				<p align="left">string</p>
-			</td>
-			<td>
-				<p align="left">M</p>
-			</td>
-			<td>
-				<p align="left"></p>
 			</td>
 			<td>
 				<p align="left">M</p>
@@ -2500,12 +2194,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			<td>
 				<p align="left"></p>
 			</td>
-			<td>
-				<p align="left">M</p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
 		</tr>
 		<tr valign="top">
 			<td>
@@ -2535,12 +2223,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			<td>
 				<p align="left">410</p>
 			</td>
-			<td>
-				<p align="left">220</p>
-			</td>
-			<td>
-				<p align="left">230</p>
-			</td>
 		</tr>
 		<tr valign="top">
 			<td>
@@ -2563,12 +2245,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			</td>
 			<td>
 				<p align="left">E</p>
-			</td>
-			<td>
-				<p align="left">M</p>
-			</td>
-			<td>
-				<p align="left">E1</p>
 			</td>
 			<td>
 				<p align="left">M</p>
@@ -2605,12 +2281,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			<td>
 				<p align="left">E1</p>
 			</td>
-			<td>
-				<p align="left">M</p>
-			</td>
-			<td>
-				<p align="left">E1</p>
-			</td>
 		</tr>
 		<tr valign="top">
 			<td>
@@ -2621,12 +2291,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			</td>
 			<td>
 				<p align="left">string</p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left"></p>
 			</td>
 			<td>
 				<p align="left"></p>
@@ -2675,12 +2339,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			<td>
 				<p align="left">E1</p>
 			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left">E1</p>
-			</td>
 		</tr>
 		<tr valign="top">
 			<td>
@@ -2700,12 +2358,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			</td>
 			<td>
 				<p align="left">C2</p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left"></p>
 			</td>
 			<td>
 				<p align="left"></p>
@@ -2745,12 +2397,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			<td>
 				<p align="left"></p>
 			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
 		</tr>
 		<tr valign="top">
 			<td>
@@ -2761,12 +2407,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			</td>
 			<td>
 				<p align="left">decimal</p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left"></p>
 			</td>
 			<td>
 				<p align="left"></p>
@@ -2815,12 +2455,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			<td>
 				<p align="left"></p>
 			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
 		</tr>
 		<tr valign="top">
 			<td>
@@ -2840,12 +2474,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			</td>
 			<td>
 				<p align="left">C1</p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left"></p>
 			</td>
 			<td>
 				<p align="left"></p>
@@ -2885,12 +2513,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			<td>
 				<p align="left"></p>
 			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
 		</tr>
 		<tr valign="top">
 			<td>
@@ -2901,12 +2523,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			</td>
 			<td>
 				<p align="left">decimal</p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left"></p>
 			</td>
 			<td>
 				<p align="left"></p>
@@ -2955,12 +2571,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			<td>
 				<p align="left"></p>
 			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
 		</tr>
 		<tr valign="top">
 			<td>
@@ -2980,12 +2590,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			</td>
 			<td>
 				<p align="left">C1</p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left"></p>
 			</td>
 			<td>
 				<p align="left"></p>
@@ -3025,12 +2629,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			<td>
 				<p align="left"></p>
 			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
 		</tr>
 		<tr valign="top">
 			<td>
@@ -3041,12 +2639,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			</td>
 			<td>
 				<p align="left">string</p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left"></p>
 			</td>
 			<td>
 				<p align="left"></p>
@@ -3095,12 +2687,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			<td>
 				<p align="left"></p>
 			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
 		</tr>
 		<tr valign="top">
 			<td>
@@ -3111,12 +2697,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			</td>
 			<td>
 				<p align="left">string</p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left"></p>
 			</td>
 			<td>
 				<p align="left"></p>
@@ -3165,12 +2745,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			<td>
 				<p align="left">E</p>
 			</td>
-			<td>
-				<p align="left">M1</p>
-			</td>
-			<td>
-				<p align="left">E</p>
-			</td>
 		</tr>
 		<tr valign="top">
 			<td>
@@ -3181,12 +2755,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			</td>
 			<td>
 				<p align="left">int</p>
-			</td>
-			<td>
-				<p align="left">M</p>
-			</td>
-			<td>
-				<p align="left">E</p>
 			</td>
 			<td>
 				<p align="left">M</p>
@@ -3235,12 +2803,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			<td>
 				<p align="left">E</p>
 			</td>
-			<td>
-				<p align="left">M</p>
-			</td>
-			<td>
-				<p align="left">E</p>
-			</td>
 		</tr>
 		<tr valign="top">
 			<td>
@@ -3260,12 +2822,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			</td>
 			<td>
 				<p align="left">M</p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left"></p>
 			</td>
 			<td>
 				<p align="left"></p>
@@ -3305,12 +2861,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			<td>
 				<p align="left"></p>
 			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
 		</tr>
 		<tr valign="top">
 			<td>
@@ -3330,12 +2880,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			</td>
 			<td>
 				<p align="left">O</p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left"></p>
 			</td>
 			<td>
 				<p align="left"></p>
@@ -3375,12 +2919,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			<td>
 				<p align="left"></p>
 			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
 		</tr>
 		<tr valign="top">
 			<td>
@@ -3410,12 +2948,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			<td>
 				<p align="left"></p>
 			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
 		</tr>
 		<tr valign="top">
 			<td>
@@ -3426,12 +2958,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			</td>
 			<td>
 				<p align="left">string</p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left"></p>
 			</td>
 			<td>
 				<p align="left"></p>
@@ -3483,12 +3009,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			<td>
 				<p align="left"></p>
 			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
 		</tr>
 		<tr valign="top">
 			<td>
@@ -3509,12 +3029,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			<td>
 				<p align="left"></p>
 			</td>
-			<td>
-				<p align="left">M1</p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
 		</tr>
 		<tr valign="top">
 			<td>
@@ -3535,12 +3049,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			<td>
 				<p align="left"></p>
 			</td>
-			<td>
-				<p align="left">C3</p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
 		</tr>
 		<tr valign="top">
 			<td>
@@ -3551,12 +3059,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			</td>
 			<td>
 				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left">C3</p>
 			</td>
 			<td>
 				<p align="left"></p>
@@ -3596,12 +3098,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			<td>
 				<p align="left">E</p>
 			</td>
-			<td>
-				<p align="left">C3</p>
-			</td>
-			<td>
-				<p align="left">E</p>
-			</td>
 		</tr>
 		<tr valign="top">
 			<td>
@@ -3612,12 +3108,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			</td>
 			<td>
 				<p align="left">string</p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left"></p>
 			</td>
 			<td>
 				<p align="left"></p>
@@ -3666,12 +3156,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			<td>
 				<p align="left">M</p>
 			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left">M</p>
-			</td>
 		</tr>
 		<tr valign="top">
 			<td>
@@ -3701,12 +3185,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			<td>
 				<p align="left">M</p>
 			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left">M</p>
-			</td>
 		</tr>
 		<tr valign="top">
 			<td>
@@ -3717,12 +3195,6 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			</td>
 			<td>
 				<p align="left">Dictionary[string, string]</p>
-			</td>
-			<td>
-				<p align="left"></p>
-			</td>
-			<td>
-				<p align="left"></p>
 			</td>
 			<td>
 				<p align="left"></p>
@@ -3815,10 +3287,10 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 				<p align="left">E</p>
 			</td>
 			<td>
-				<p align="left"></p>
+				<p align="left">M</p>
 			</td>
 			<td>
-				<p align="left"></p>
+				<p align="left">E1</p>
 			</td>
 		</tr>
 		<tr valign="top">
@@ -3844,10 +3316,10 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 				<p align="left">E</p>
 			</td>
 			<td>
-				<p align="left"></p>
+				<p align="left">M</p>
 			</td>
 			<td>
-				<p align="left"></p>
+				<p align="left">E1</p>
 			</td>
 		</tr>
 		<tr valign="top">
@@ -3873,10 +3345,10 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 				<p align="left">E</p>
 			</td>
 			<td>
-				<p align="left"></p>
+				<p align="left">M</p>
 			</td>
 			<td>
-				<p align="left"></p>
+				<p align="left">E1</p>
 			</td>
 		</tr>
 		<tr valign="top">
@@ -3902,10 +3374,10 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 				<p align="left">E</p>
 			</td>
 			<td>
-				<p align="left"></p>
+				<p align="left">M</p>
 			</td>
 			<td>
-				<p align="left"></p>
+				<p align="left">E1</p>
 			</td>
 		</tr>
 		<tr valign="top">
@@ -3931,10 +3403,10 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 				<p align="left">E</p>
 			</td>
 			<td>
-				<p align="left"></p>
+				<p align="left">M</p>
 			</td>
 			<td>
-				<p align="left"></p>
+				<p align="left">E1</p>
 			</td>
 		</tr>
 		<tr valign="top">
@@ -3960,7 +3432,7 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 				<p align="left"></p>
 			</td>
 			<td>
-				<p align="left"></p>
+				<p align="left">M</p>
 			</td>
 			<td>
 				<p align="left"></p>
@@ -3989,7 +3461,7 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 				<p align="left"></p>
 			</td>
 			<td>
-				<p align="left"></p>
+				<p align="left">M</p>
 			</td>
 			<td>
 				<p align="left"></p>
@@ -4018,10 +3490,10 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 				<p align="left">410</p>
 			</td>
 			<td>
-				<p align="left"></p>
+				<p align="left">220</p>
 			</td>
 			<td>
-				<p align="left"></p>
+				<p align="left">230</p>
 			</td>
 		</tr>
 		<tr valign="top">
@@ -4047,10 +3519,10 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 				<p align="left">E</p>
 			</td>
 			<td>
-				<p align="left"></p>
+				<p align="left">M</p>
 			</td>
 			<td>
-				<p align="left"></p>
+				<p align="left">E1</p>
 			</td>
 		</tr>
 		<tr valign="top">
@@ -4076,10 +3548,10 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 				<p align="left">E</p>
 			</td>
 			<td>
-				<p align="left"></p>
+				<p align="left">M</p>
 			</td>
 			<td>
-				<p align="left"></p>
+				<p align="left">E1</p>
 			</td>
 		</tr>
 		<tr valign="top">
@@ -4109,6 +3581,35 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 			</td>
 			<td>
 				<p align="left"></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td>
+				<p align="left">PumpNumber</p>
+			</td>
+			<td>
+				<p align="left">2</p>
+			</td>
+			<td>
+				<p align="left">string</p>
+			</td>
+			<td>
+				<p align="left"></p>
+			</td>
+			<td>
+				<p align="left"></p>
+			</td>
+			<td>
+				<p align="left"></p>
+			</td>
+			<td>
+				<p align="left"></p>
+			</td>
+			<td>
+				<p align="left"></p>
+			</td>
+			<td>
+				<p align="left">E1</p>
 			</td>
 		</tr>	
 		<tr valign="top">
@@ -4192,10 +3693,10 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 				<p align="left">E</p>
 			</td>
 			<td>
-				<p align="left"></p>
+				<p align="left">M1</p>
 			</td>
 			<td>
-				<p align="left"></p>
+				<p align="left">E</p>
 			</td>
 		</tr>
 		<tr valign="top">
@@ -4221,10 +3722,10 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 				<p align="left">E</p>
 			</td>
 			<td>
-				<p align="left"></p>
+				<p align="left">M</p>
 			</td>
 			<td>
-				<p align="left"></p>
+				<p align="left">E</p>
 			</td>
 		</tr>
 		<tr valign="top">
@@ -4250,10 +3751,10 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 				<p align="left">E</p>
 			</td>
 			<td>
-				<p align="left"></p>
+				<p align="left">M</p>
 			</td>
 			<td>
-				<p align="left"></p>
+				<p align="left">E</p>
 			</td>
 		</tr>
 		<tr valign="top">
@@ -4447,7 +3948,7 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 				<p align="left"></p>
 			</td>
 			<td>
-				<p align="left"></p>
+				<p align="left">M1</p>
 			</td>
 			<td>
 				<p align="left"></p>
@@ -4467,7 +3968,7 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 				<p align="left"></p>
 			</td>
 			<td>
-				<p align="left"></p>
+				<p align="left">C3</p>
 			</td>
 			<td>
 				<p align="left"></p>
@@ -4487,7 +3988,7 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 				<p align="left"></p>
 			</td>
 			<td>
-				<p align="left"></p>
+				<p align="left">C3</p>
 			</td>
 			<td>
 				<p align="left"></p>
@@ -4516,10 +4017,10 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 				<p align="left">M</p>
 			</td>
 			<td>
-				<p align="left"></p>
+				<p align="left">C3</p>
 			</td>
 			<td>
-				<p align="left"></p>
+				<p align="left">E</p>
 			</td>
 		</tr>
 		<tr valign="top">
@@ -4577,7 +4078,7 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 				<p align="left"></p>
 			</td>
 			<td>
-				<p align="left"></p>
+				<p align="left">M</p>
 			</td>
 		</tr>
 		<tr valign="top">
@@ -4606,7 +4107,7 @@ The ATIONET authorization engine exposes an API with a set of commands to perfor
 				<p align="left"></p>
 			</td>
 			<td>
-				<p align="left"></p>
+				<p align="left">M</p>
 			</td>
 		</tr>
 		<tr valign="top">
